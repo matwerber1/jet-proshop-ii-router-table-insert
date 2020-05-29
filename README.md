@@ -20,9 +20,9 @@ Some things I like about this plan:
 
 * **Wiggle room on table insert's width** - you can get a nice friction fit of the table insert between the rails and don't have to worry about your rabbet width being perfect. This is because you can cut the rabbits as wide or narrow as you want and then later cut a slightly oversized table insert to fit just by taking light passes on your table saw. 
 
-**Wiggle room on table insert's height** - Since the table insert will have set screws, you have a bit of wiggle room on its height (and corresponding rabbet height on the supports). That being said, you want to use something thick enough to be sturdy when your router is attached but not so thick that it interferes with the screws/bolts you use to attach the supporting rails. In my case, a 3/4" thick table insert seems to be just about perfect.
+* **Wiggle room on table insert's height** - Since the table insert will have set screws, you have a bit of wiggle room on its height (and corresponding rabbet height on the supports). That being said, you want to use something thick enough to be sturdy when your router is attached but not so thick that it interferes with the screws/bolts you use to attach the supporting rails. In my case, a 3/4" thick table insert seems to be just about perfect.
 
-**No need to drill any holes in your table saw or factory rails** - I just leverage some of the unused holes in the rails that came with the table saw.
+* **No need to drill any holes in your table saw or factory rails** - I just leverage some of the unused holes in the rails that came with the table saw.
 
 # Design
 
