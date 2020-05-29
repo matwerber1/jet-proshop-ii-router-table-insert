@@ -16,7 +16,7 @@ Some things I like about this plan:
 
 * **Keep your table saw wings** - other plans I saw often called for removing a table saw wing and making a router table insert to take its place. This design allows you to keep your existing wings.
 
-* **Wiggle room on table insert and rail height** - this design intentionally allows you to make the insert just a little shy (say 1/16th" to 1/8th" of flush with the table saw wings because you can adjust the table with set screws to later bring it flush. This means you don't have to worry if you're off a little bit somewhere.
+* **Wiggle room on table insert and rail height** - this design intentionally allows you to make the insert just a little shy (say 1/16th" to 1/8th") of being flush with the factory saw wing's top and not need to worry about cutting things perfect from the start. This is because you can later adjust the table height with set screws.
 
 * **Wiggle room on table insert's width** - you can get a nice friction fit of the table insert between the rails and don't have to worry about your rabbet width being perfect. This is because you can cut the rabbits as wide or narrow as you want and then later cut a slightly oversized table insert to fit just by taking light passes on your table saw. 
 
