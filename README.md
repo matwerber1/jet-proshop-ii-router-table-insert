@@ -12,7 +12,11 @@ I've built most of the rough prototype, but its not finished yet. For now, I jus
 
 # Design
 
+## Overview
+
 Two 15" 4x4s are jointed on two adjacent faces. One jointed face will be flush with the table saw rails and the other jointed face will be facing up toward the ceiling. The inside edge of the rails are given a rabbet that allows you to drop in a table face of your choice. 
+
+![alt text](overview.jpg)
 
 ## Front rail
 The 1st 4x4 is attached to the front rail using two [M8-1.25 20mm countersunk screws](https://www.amazon.com/gp/product/B07X9G5KZ9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) and [E-Z Lok 400 M8-1.25 0.625" brass inserts](https://www.amazon.com/gp/product/B002WC8TRK/ref=ppx_yo_dt_b_asin_title_o02_s03?ie=UTF8&psc=1). It feels sturdy for now, but haven't actually attached the router and worked with it to know whether it will hold up. If I did it again, I might want to use slightly longer screws and inserts... but I would have to first make sure they wouldn't interfere / cross into the space of the rabbet that we cut to hold the router table board (described later).
@@ -30,15 +34,13 @@ So... why did I use M8 screws with brass inserts in the front but lag screws in 
 ## Rabbet and table
 Each 4x4 has a rabbet on the top-inner face approx. 1.5" inward and 0.75" deep. This allows you to drop in a 0.75" table board (MDF, in case) of your choice. 
 
-![alt text](rabbet-table.jpg)
+![alt text](rabbet.jpg)
 
 # Areas for improvement
 
-## 4x4 rails flush with table wings
+## 4x4 rails not same height
 
-My 4x4 rails are not flush with the top of the adjacent cast-iron wing; one is just shy (maybe 1/16th), while the other is shy by ~3/16th. I think it might actually be a good thing if they're a little shy (maybe 1/6th or 1/8th) because, just like the router table insert, the table insert we make also has set screws to adjust height. We can use those screws to get ~95% of the table surface flush with the saw wings and I don't think it matters if there's ~1.5" on either side that is a bit shy. Being a little shy also means you don't have to spend the time trying to get them perfectly flush and don't have to worry about things getting out of alignment if your table wings or the 4x4s shift a little. 
-
-I just wish I had paid more attention and had both sides **equally** shy by ~1/16th, rather than one being ~3/16th. 
+Both 4x4 rails are intentionally shy of the adjacent wing, but I made a mistake and one is more shy than the other. I wanted them shy by maybe 1/16th, but my back rail is closer to 3/16th.
 
 ## Set screws in the table
 
