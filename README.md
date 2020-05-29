@@ -2,13 +2,27 @@
 
 Plans for a DIY router table insert for a Jet Proshop II table saw that allows you to keep both wings in place.
 
-I was originally planning to make a different design but made a cut in the wrong place and had to improvise with my remaining wood on hand - didn't feel like going to go get more. I ended up coming up with a plan that I like much more. 
+I was originally planning to make a different design but made a cut in the wrong place and had to improvise with my remaining wood on hand as I didn't want to go to the store again. 
 
-What's cool is that, unlike some of the other plans I saw that call for removing one of your existing wings, this plan allows you too keep your existing wings :)
+Fortunately, I ended up coming with a plan that I like much more :)
 
 ## Status
 
-I've built most of the rough prototype, but its not finished yet. For now, I just have a brief description and a few pictures. 
+I'm not actually done building this, so some of what I describe below is what I **intend** to do but isn't shown in the pictures.
+
+# Benefits
+
+Some things I like about this plan:
+
+* **Keep your table saw wings** - other plans I saw often called for removing a table saw wing and making a router table insert to take its place. This design allows you to keep your existing wings.
+
+* **Wiggle room on table insert and rail height** - this design intentionally allows you to make the insert just a little shy (say 1/16th" to 1/8th" of flush with the table saw wings because you can adjust the table with set screws to later bring it flush. This means you don't have to worry if you're off a little bit somewhere.
+
+* **Wiggle room on table insert's width** - you can get a nice friction fit of the table insert between the rails and don't have to worry about your rabbet width being perfect. This is because you can cut the rabbits as wide or narrow as you want and then later cut a slightly oversized table insert to fit just by taking light passes on your table saw. 
+
+**Wiggle room on table insert's height** - Since the table insert will have set screws, you have a bit of wiggle room on its height (and corresponding rabbet height on the supports). That being said, you want to use something thick enough to be sturdy when your router is attached but not so thick that it interferes with the screws/bolts you use to attach the supporting rails. In my case, a 3/4" thick table insert seems to be just about perfect.
+
+**No need to drill any holes in your table saw or factory rails** - I just leverage some of the unused holes in the rails that came with the table saw.
 
 # Design
 
