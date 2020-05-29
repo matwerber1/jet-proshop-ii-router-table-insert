@@ -1,2 +1,49 @@
 # jet-proshop-ii-router-table-insert
-Plans for a DIY router table insert for a Jet Proshop II table saw that allows you to keep both wings in place
+
+Plans for a DIY router table insert for a Jet Proshop II table saw that allows you to keep both wings in place.
+
+I was originally planning to make a different design but made a cut in the wrong place and had to improvise with my remaining wood on hand - didn't feel like going to go get more. I ended up coming up with a plan that I like much more. 
+
+What's cool is that, unlike some of the other plans I saw that call for removing one of your existing wings, this plan allows you too keep your existing wings :)
+
+## Status
+
+I've built most of the rough prototype, but its not finished yet. For now, I just have a brief description and a few pictures. 
+
+# Design
+
+Two 15" 4x4s are jointed on two adjacent faces. One jointed face will be flush with the table saw rails and the other jointed face will be facing up toward the ceiling. The inside edge of the rails are given a rabbet that allows you to drop in a table face of your choice. 
+
+## Front rail
+The 1st 4x4 is attached to the front rail using two [M8-1.25 20mm countersunk screws](https://www.amazon.com/gp/product/B07X9G5KZ9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) and [E-Z Lok 400 M8-1.25 0.625" brass inserts](https://www.amazon.com/gp/product/B002WC8TRK/ref=ppx_yo_dt_b_asin_title_o02_s03?ie=UTF8&psc=1). It feels sturdy for now, but haven't actually attached the router and worked with it to know whether it will hold up. If I did it again, I might want to use slightly longer screws and inserts... but I would have to first make sure they wouldn't interfere / cross into the space of the rabbet that we cut to hold the router table board (described later).
+
+![alt text](front-rail.jpg)
+
+
+## Back rail
+The 2nd 4x4 is attached to the back rail using two 5/16ths x 1" flat hex-head lag screws and washers (at least, that's what I think they are... I need to go back and double check). Just want to emphasize - unlike the front rail holes which are countersunk, the back rail holes are flat.
+
+![alt text](back-rail.jpg)
+
+So... why did I use M8 screws with brass inserts in the front but lag screws in the back? Well, because I only hand the M8 countersunk screws and 5/16 lag screws on hand at the time!
+
+## Rabbet and table
+Each 4x4 has a rabbet on the top-inner face approx. 1.5" inward and 0.75" deep. This allows you to drop in a 0.75" table board (MDF, in case) of your choice. 
+
+![alt text](rabbet-table.jpg)
+
+# Areas for improvement
+
+## 4x4 rails flush with table wings
+
+My 4x4 rails are not flush with the top of the adjacent cast-iron wing; one is just shy (maybe 1/16th), while the other is shy by ~3/16th. I think it might actually be a good thing if they're a little shy (maybe 1/6th or 1/8th) because, just like the router table insert, the table insert we make also has set screws to adjust height. We can use those screws to get ~95% of the table surface flush with the saw wings and I don't think it matters if there's ~1.5" on either side that is a bit shy. Being a little shy also means you don't have to spend the time trying to get them perfectly flush and don't have to worry about things getting out of alignment if your table wings or the 4x4s shift a little. 
+
+I just wish I had paid more attention and had both sides **equally** shy by ~1/16th, rather than one being ~3/16th. 
+
+## Set screws in the table
+
+It's not pictured, but I intend to add set screws to the four corners of the MDF drop in so that its really easy to make the table level with the saw wing surface. 
+
+## Side truss for stability
+
+If you look at the right-most edge of the table insert, it's unsupported between the two ends of the 4x4 posts. Maybe it makes sense to put some kind of perpendicular brace there? as I haven't yet attached the router, not sure how the weight will impact things. The deep rabbets on the 4x4 braces might be sturdy enough?
